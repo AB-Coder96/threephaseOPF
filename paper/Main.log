@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.21)  21 JAN 2024 22:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.21)  22 JAN 2024 04:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -404,8 +404,14 @@ tex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count288
 \l__pdf_internal_box=\box60
+) (Main.aux
+
+LaTeX Warning: Label `VUF_reg' multiply defined.
+
+
+LaTeX Warning: Label `VUFstandar' multiply defined.
+
 )
-No file Main.aux.
 \openout1 = `Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -549,14 +555,6 @@ azb/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 ]
 
-LaTeX Warning: Reference `P_ij_phigamma' on page 2 undefined on input line 177.
-
-
-
-LaTeX Warning: Reference `Q_ij_phigamma' on page 2 undefined on input line 177.
-
-
-
 Package amsmath Warning: Cannot use `split' here;
 (amsmath)                trying to recover with `aligned' on input line 187.
 
@@ -567,135 +565,18 @@ Package amsmath Warning: Cannot use `split' here;
 
 LaTeX Warning: Citation `yuan2016novel' on page 2 undefined on input line 201.
 
-
-LaTeX Warning: Reference `replaced_P_ij_phigamma' on page 2 undefined on input 
-line 201.
-
-
-LaTeX Warning: Reference `replaced_Q_ij_phigamma' on page 2 undefined on input 
-line 201.
-
-
-LaTeX Warning: Reference `branch_active_power' on page 2 undefined on input lin
-e 201.
-
-
-LaTeX Warning: Reference `linearized_Qij2' on page 2 undefined on input line 20
-1.
-
-
-LaTeX Warning: Reference `P_ij_phigamma' on page 2 undefined on input line 228.
-
-
-
-LaTeX Warning: Reference `Q_ij_phigamma' on page 2 undefined on input line 228.
-
-
-
-LaTeX Warning: Reference `replaced_P_ij_phigamma' on page 2 undefined on input 
-line 228.
-
-
-LaTeX Warning: Reference `replaced_Q_ij_phigamma' on page 2 undefined on input 
-line 228.
-
 [2]
-
-LaTeX Warning: Reference `line_capacity_constraint' on page 3 undefined on inpu
-t line 254.
-
 
 LaTeX Warning: Citation `akbari2016linear' on page 3 undefined on input line 25
 4.
 
 
-LaTeX Warning: Reference `Voltage_magnitude_constraint' on page 3 undefined on 
-input line 274.
-
-
 LaTeX Warning: Citation `smith2009ieee' on page 3 undefined on input line 274.
-
-
-LaTeX Warning: Reference `VUF_Constraint' on page 3 undefined on input line 274
-.
-
-
-LaTeX Warning: Reference `Reg' on page 3 undefined on input line 280.
-
-
-LaTeX Warning: Reference `objective_function' on page 3 undefined on input line
- 297.
-
-
-LaTeX Warning: Reference `objective_function_VUF' on page 3 undefined on input 
-line 305.
-
-
-LaTeX Warning: Reference `Pareto' on page 3 undefined on input line 315.
-
-
-LaTeX Warning: Reference `single_phase_EVCSs_model1' on page 3 undefined on inp
-ut line 320.
-
-
-LaTeX Warning: Reference `single_phase_EVCSs_model3' on page 3 undefined on inp
-ut line 320.
-
-
-LaTeX Warning: Reference `three_phase_EVCSs_model1' on page 3 undefined on inpu
-t line 336.
-
-
-LaTeX Warning: Reference `three_phase_EVCSs_model3' on page 3 undefined on inpu
-t line 336.
-
-
-LaTeX Warning: Reference `single_phase_EVCSs_model1' on page 3 undefined on inp
-ut line 336.
-
-
-LaTeX Warning: Reference `single_phase_EVCSs_model2' on page 3 undefined on inp
-ut line 336.
-
-
-LaTeX Warning: Reference `three_phase_EVCSs_model1' on page 3 undefined on inpu
-t line 336.
 
 [3]
 
 LaTeX Warning: Citation `salmeron2004compensation' on page 4 undefined on input
  line 353.
-
-
-LaTeX Warning: Reference `PV_model_3' on page 4 undefined on input line 371.
-
-
-LaTeX Warning: Reference `three-phase_PV_model_1' on page 4 undefined on input 
-line 380.
-
-
-LaTeX Warning: Reference `three_phase_PVs_model2' on page 4 undefined on input 
-line 380.
-
-
-LaTeX Warning: Reference `three_phase_PVs_model3' on page 4 undefined on input 
-line 380.
-
-
-LaTeX Warning: Reference `objective_function' on page 4 undefined on input line
- 398.
-
-
-LaTeX Warning: Reference `replaced_P_ij_phigamma' on page 4 undefined on input 
-line 398.
-
-
-LaTeX Warning: Reference `replaced_Q_ij_phigamma' on page 4 undefined on input 
-line 398.
-
-
-LaTeX Warning: Reference `linearized_line_capacity_constraint' on page 4 undefi
-ned on input line 398.
 
 
 LaTeX Warning: Citation `zimmerman2010matpower' on page 4 undefined on input li
@@ -710,15 +591,8 @@ LaTeX Warning: Citation `schneider2014ieee' on page 4 undefined on input line 4
 08.
 
 
-LaTeX Warning: Reference `33_Bus_system' on page 4 undefined on input line 408.
-
-
-
 LaTeX Warning: Reference `192_Bus_system' on page 4 undefined on input line 408
 .
-
-
-LaTeX Warning: Reference `table2' on page 4 undefined on input line 408.
 
 <pdf/33 and 192 bus.pdf, id=23, 722.7pt x 1228.59pt>
 File: pdf/33 and 192 bus.pdf Graphic file (type pdf)
@@ -739,19 +613,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 456--456
 []\OT1/ptm/b/n/8 Three-phase EV Ac-tive
  []
 
-
-LaTeX Warning: Reference `table1' on page 4 undefined on input line 483.
-
 [4]
 Underfull \hbox (badness 1616) in paragraph at lines 534--535
 \OT1/ptm/m/n/10 di-tion, un-like the \OT1/ptm/m/it/10 Fixed\OT1/ptm/m/n/10 , \O
 T1/ptm/m/it/10 OPF \OT1/ptm/m/n/10 and \OT1/ptm/m/it/10 OPF-VUF \OT1/ptm/m/n/10
  meth-ods,
  []
-
-
-LaTeX Warning: Reference `Load Imbalance' on page 5 undefined on input line 536
-.
 
 
 
@@ -763,10 +630,6 @@ File: pdf/Load Imbalance.pdf Graphic file (type pdf)
 Package pdftex.def Info: pdf/Load Imbalance.pdf  used on input line 542.
 (pdftex.def)             Requested size: 227.62204pt x 178.21346pt.
 
-LaTeX Warning: Reference `VUF_apr_simplified' on page 5 undefined on input line
- 553.
-
-
 
 pdfTeX warning: pdflatex (file ./pdf/VUF_reg.pdf): PDF inclusion: found PDF ver
 sion <1.7>, but at most version <1.5> allowed
@@ -777,10 +640,6 @@ Package pdftex.def Info: pdf/VUF_reg.pdf  used on input line 557.
 (pdftex.def)             Requested size: 227.62204pt x 133.53625pt.
 [5 <./pdf/33 and 192 bus.pdf>]
 
-LaTeX Warning: Reference `prt' on page 6 undefined on input line 565.
-
-
-
 pdfTeX warning: pdflatex (file ./pdf/Final.pdf): PDF inclusion: found PDF versi
 on <1.7>, but at most version <1.5> allowed
 <pdf/Final.pdf, id=43, 386.01215pt x 290.69603pt>
@@ -789,30 +648,7 @@ File: pdf/Final.pdf Graphic file (type pdf)
 Package pdftex.def Info: pdf/Final.pdf  used on input line 569.
 (pdftex.def)             Requested size: 227.62204pt x 171.42046pt.
 
-LaTeX Warning: Reference `table1' on page 6 undefined on input line 579.
-
-
-LaTeX Warning: Reference `scenario_section' on page 6 undefined on input line 5
-79.
-
-
-LaTeX Warning: Reference `table1' on page 6 undefined on input line 590.
-
-
-LaTeX Warning: Reference `Table9' on page 6 undefined on input line 590.
-
-
-LaTeX Warning: Reference `Cross' on page 6 undefined on input line 590.
-
-
-LaTeX Warning: Reference `Load Imbalance' on page 6 undefined on input line 590
-.
-
-
 LaTeX Warning: Reference `Table11' on page 6 undefined on input line 590.
-
-
-LaTeX Warning: Reference `secloss' on page 6 undefined on input line 590.
 
 
 LaTeX Warning: Reference `Table11' on page 6 undefined on input line 590.
@@ -856,15 +692,6 @@ File: pdf/Cross.pdf Graphic file (type pdf)
 <use pdf/Cross.pdf>
 Package pdftex.def Info: pdf/Cross.pdf  used on input line 673.
 (pdftex.def)             Requested size: 227.62204pt x 178.94937pt.
-
-LaTeX Warning: Reference `VUF33m' on page 7 undefined on input line 680.
-
-
-LaTeX Warning: Reference `VUF192m' on page 7 undefined on input line 680.
-
-
-LaTeX Warning: Reference `table1' on page 7 undefined on input line 680.
-
 ! Undefined control sequence.
 l.681 Also, the \texit
                       {VUF} \textit{crossphase} show reduction in VUF howeve...
@@ -875,9 +702,6 @@ l.681 ...e than crossphase individully. The \texit
                                                   {VUF} \textit{OPF} and \te...
 
 ? 
-
-LaTeX Warning: Reference `VUFstandar' on page 7 undefined on input line 683.
-
 
 
 pdfTeX warning: pdflatex (file ./pdf/VUF33m.pdf): PDF inclusion: found PDF vers
@@ -897,31 +721,9 @@ File: pdf/VUF192m.pdf Graphic file (type pdf)
 Package pdftex.def Info: pdf/VUF192m.pdf  used on input line 694.
 (pdftex.def)             Requested size: 227.62204pt x 177.62744pt.
 
-LaTeX Warning: Reference `Table5' on page 7 undefined on input line 731.
-
-
-LaTeX Warning: Reference `Table6' on page 7 undefined on input line 731.
-
-
-LaTeX Warning: Reference `Table5' on page 7 undefined on input line 731.
-
-
-LaTeX Warning: Reference `Table5' on page 7 undefined on input line 731.
-
-
-LaTeX Warning: Reference `Table6' on page 7 undefined on input line 731.
-
-
 Underfull \vbox (badness 2790) has occurred while \output is active []
 
  [7 <./pdf/Cross.pdf> <./pdf/VUF33m.pdf> <./pdf/VUF192m.pdf>]
-
-LaTeX Warning: Reference `Table7' on page 8 undefined on input line 733.
-
-
-LaTeX Warning: Reference `Table8' on page 8 undefined on input line 733.
-
-
 Overfull \hbox (1.63158pt too wide) in paragraph at lines 744--744
 []|\OT1/ptm/b/n/8 Crossphase- 
  []
@@ -948,17 +750,17 @@ L3 programming layer <2023-08-29>
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6382 strings out of 475248
- 106649 string characters out of 5757813
- 1996785 words of memory out of 5000000
- 27786 multiletter control sequences out of 15000+600000
+ 6385 strings out of 475248
+ 106699 string characters out of 5757813
+ 1995785 words of memory out of 5000000
+ 27787 multiletter control sequences out of 15000+600000
  599512 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,18n,107p,2163b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,18n,107p,2154b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmex10.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmmi10.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -976,7 +778,7 @@ utmb8a.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
 utmbi8a.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
 /utmr8a.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on Main.pdf (9 pages, 1303676 bytes).
+Output written on Main.pdf (9 pages, 1303098 bytes).
 PDF statistics:
  243 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
