@@ -1,0 +1,30 @@
+\nomenclatureentry{A\(OF\)@[{\(OF\)}]\begingroup Objective function\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B\(\varphi,\gamma\)@[{\(\varphi,\gamma\)}]\begingroup Index of phases\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B\(\ell\)@[{\(\ell\)}]\begingroup Index of lines\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B\(s\)@[{\(s\)}]\begingroup Index of a slack bus\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B\(i\),\(j\)@[{\(i\),\(j\)}]\begingroup Index of buses\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(\alpha_{i_{mn}}^{\varphi\gamma}\),\(\beta_{i_{mn}}^{\varphi\gamma}\),\(\delta_{i_{mn}}^{\varphi\gamma}\)@[{\(\alpha_{i_{mn}}^{\varphi\gamma}\),\(\beta_{i_{mn}}^{\varphi\gamma}\),\(\delta_{i_{mn}}^{\varphi\gamma}\)}]\begingroup VUF quadratic approximation coefficients\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(P_{i_{ld}}^{\varphi},Q_{i_{ld}}^{\varphi}\)@[{\(P_{i_{ld}}^{\varphi},Q_{i_{ld}}^{\varphi}\)}]\begingroup Active and reactive powers consumed by load\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(P_{i_{PV}}^{sun}\)@[{\(P_{i_{PV}}^{sun}\)}]\begingroup Maximum available active power of a PV\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(S_{i}^{inv} _{PV}, S_{i}^{inv} _{EV}\)@[{\(S_{i}^{inv} _{PV}, S_{i}^{inv} _{EV}\)}]\begingroup Phase to neutral rated powers of  a PV and EV\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(P_{i_{EV}}^{sch}\)@[{\(P_{i_{EV}}^{sch}\)}]\begingroup Scheduled consumed active power of an EVCS\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(R_{ij}^{\varphi\gamma},X_{ij}^{\varphi\gamma}\)@[{\(R_{ij}^{\varphi\gamma},X_{ij}^{\varphi\gamma}\)}]\begingroup Total resistance and reactance of line from bus \textit{i} to bus \textit{j} and phase $\varphi$ to phase $\gamma$\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(V_{i}^{min},V_{i}^{max}\)@[{\(V_{i}^{min},V_{i}^{max}\)}]\begingroup Minimum and maximum permissible voltage in bus \textit{i}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(S_{ij}^{max}\)@[{\(S_{ij}^{max}\)}]\begingroup Phase to neutral rated apparent power flow of line from bus \textit{i} to bus \textit{j}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(VUF_{i}^{max}\)@[{\(VUF_{i}^{max}\)}]\begingroup Maximum permissible VUF in bus \textit{i}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(V_i\)@[{\(V_i\)}]\begingroup Three-phase Voltage phasor vector\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(c_1^s,c_2^s,c_3^s\)@[{\(c_1^s,c_2^s,c_3^s\)}]\begingroup Cost coefficients of the power provided by the upper voltage system in slack bus \textit{s}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{D\(V_i ^{\varphi},\theta_i^{\varphi}\)@[{\(V_i ^{\varphi},\theta_i^{\varphi}\)}]\begingroup Voltage magnitude and angle in bus \textit{i} and phase $\varphi$\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{D\(P_{i}^{\varphi}_{inject},Q_{i}^{\varphi}_{inject}\)@[{\(P_{i}^{\varphi}_{inject},Q_{i}^{\varphi}_{inject}\)}]\begingroup The injected active and reactive powers\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{D\(P_{i_{PV}}^{\varphi},Q_{i_{PV}}^{\varphi}\)@[{\(P_{i_{PV}}^{\varphi},Q_{i_{PV}}^{\varphi}\)}]\begingroup Active and reactive powers injected from PV\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{D\(P_{i_{EV}}^{\varphi},Q_{i_{EV}}^{\varphi}\)@[{\(P_{i_{EV}}^{\varphi},Q_{i_{EV}}^{\varphi}\)}]\begingroup Active and reactive powers injected from EV\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{D\(P_{ij}^{\varphi\gamma},Q_{ij}^{\varphi\gamma},S_{ij}^{\varphi\gamma}\)@[{\(P_{ij}^{\varphi\gamma},Q_{ij}^{\varphi\gamma},S_{ij}^{\varphi\gamma}\)}]\begingroup Active, reactive and apparent power flows of line from bus \textit{i}, phase $\varphi$ to bus \textit{j} and phase $\varphi$ to phase $\gamma$\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{D\(VUF_{i}\)@[{\(VUF_{i}\)}]\begingroup Voltage imbalance factor in bus number \textit{i}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C\(w', w_i, w\)@[{\(w', w_i, w\)}]\begingroup Weight factors of objective function\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{D\(VUF_{i}^{apr}\)@[{\(VUF_{i}^{apr}\)}]\begingroup Voltage imbalance factor approximation in bus number \textit{i}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{E\(N\)@[{\(N\)}]\begingroup Set of buses\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{E\(\phi\)@[{\(\phi\)}]\begingroup Set of phases\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{E\(L\)@[{\(L\)}]\begingroup Set of lines\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{E\(S\)@[{\(S\)}]\begingroup Set of Slack Buses\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{F\(\{A\}^{+},\{A\}^{-}\)@[{\(\{A\}^{+},\{A\}^{-}\)}]\begingroup Positive and negative sequence of the three phase phasor vector A\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{F\(\hat A\)@[{\(\hat A\)}]\begingroup Linear approximation of A\nomeqref {0}|nompageref}{1}

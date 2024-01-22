@@ -1,0 +1,984 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.21)  21 JAN 2024 22:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Main.tex
+(Main.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen140
+\@IEEEtrantmpdimenB=\dimen141
+\@IEEEtrantmpcountA=\count185
+\@IEEEtrantmpcountB=\count186
+\@IEEEtrantmptoksA=\toks17
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+62.
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen142
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen143
+\CLASSINFOnormalsizeunitybaselineskip=\dimen144
+\IEEEnormaljot=\dimen145
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 720.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 720.
+\IEEEilabelindentA=\dimen146
+\IEEEilabelindentB=\dimen147
+\IEEEilabelindent=\dimen148
+\IEEEelabelindent=\dimen149
+\IEEEdlabelindent=\dimen150
+\IEEElabelindent=\dimen151
+\IEEEiednormlabelsep=\dimen152
+\IEEEiedmathlabelsep=\dimen153
+\IEEEiedtopsep=\skip48
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@IEEEsubequation=\count191
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\c@figure=\count192
+\c@table=\count193
+\@IEEEeqnnumcols=\count194
+\@IEEEeqncolcnt=\count195
+\@IEEEtmpitemindent=\dimen154
+\c@IEEEbiography=\count196
+\@IEEEtranrubishbin=\box51
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/tablefootnote\tablefoot
+note.sty
+Package: tablefootnote 2014/01/26 v1.1c Table foot notes (HMM)
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/xifthen\xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count197
+\calc@Bcount=\count198
+\calc@Adimen=\dimen155
+\calc@Bdimen=\dimen156
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count199
+\calc@Cskip=\skip53
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count266
+)) (C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks18
+\SOUL@lasttoken=\toks19
+\SOUL@syllable=\toks20
+\SOUL@cmds=\toks21
+\SOUL@buffer=\toks22
+\SOUL@token=\toks23
+\SOUL@syllgoal=\dimen157
+\SOUL@syllwidth=\dimen158
+\SOUL@charkern=\dimen159
+\SOUL@hyphkern=\dimen160
+\SOUL@dimen=\dimen161
+\SOUL@dimeni=\dimen162
+\SOUL@minus=\count267
+\SOUL@comma=\count268
+\SOUL@apo=\count269
+\SOUL@grave=\count270
+\SOUL@spaceskip=\skip54
+\SOUL@ttwidth=\dimen163
+\SOUL@uldp=\dimen164
+\SOUL@ulht=\dimen165
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)))
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip55
+\fb@frw=\dimen166
+\fb@frh=\dimen167
+\FrameRule=\dimen168
+\FrameSep=\dimen169
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen170
+\Gin@req@width=\dimen171
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen172
+))
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen173
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen174
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count276
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip16
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks26
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks27
+\eqnshift@=\dimen175
+\alignsep@=\dimen176
+\tagshift@=\dimen177
+\tagwidth@=\dimen178
+\totwidth@=\dimen179
+\lineht@=\dimen180
+\@envbody=\toks28
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen181
+\ar@mcellbox=\box54
+\extrarowheight=\dimen182
+\NC@list=\toks30
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box55
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/mdwtools\mdwmath.sty
+Package: mdwmath 1996/04/11 1.1 Nice mathematical things
+\sq@sqrt=\count283
+LaTeX Info: Redefining \sqrt on input line 84.
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/mdwtools\mdwtab.sty
+Package: mdwtab 1998/04/28 1.9 Table typesetting with style
+\tab@state=\count284
+\tab@columns=\count285
+\tab@preamble=\toks31
+\tab@shortline=\toks32
+\extrarowheight=\dimen183
+\tabextrasep=\dimen184
+\arrayextrasep=\dimen185
+\smarraycolsep=\dimen186
+\smarrayextrasep=\dimen187
+\tab@width=\dimen188
+\col@sep=\dimen189
+\tab@endheight=\dimen190
+\tab@leftskip=\skip61
+\tab@rightskip=\skip62
+\fn@notes=\box56
+\fn@width=\dimen191
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/eqparbox\eqparbox.sty
+Package: eqparbox 2017/09/03 v4.1 Create equal-widthed boxes
+\eqp@tempdima=\skip63
+\eqp@tempdimb=\skip64
+\eqp@tabular@box=\box57
+\eqp@list@box=\box58
+\eqp@list@indent=\skip65
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))) (C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/nomencl\nomencl.sty
+Package: nomencl 2021/11/10 v5.6 Nomenclature package
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks33
+\XKV@tempa@toks=\toks34
+)
+\XKV@depth=\count286
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.st
+y
+Package: tocbasic 2023/07/07 v3.41 KOMA-Script package (handling toc-files)
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)
+\scr@dte@tocline@numberwidth=\skip66
+\scr@dte@tocline@numbox=\box59
+)
+Package tocbasic Info: omitting babel extension for `nlo'
+(tocbasic)             because of missing \bbl@set@language on input line 187.
+Package tocbasic Info: omitting babel extension for `nls'
+(tocbasic)             because of missing \bbl@set@language on input line 188.
+\nomlabelwidth=\dimen192
+\nom@tempdim=\dimen193
+\nomitemsep=\skip67
+)
+\@nomenclaturefile=\write3
+\openout3 = `Main.nlo'.
+
+Package nomencl Info: Writing nomenclature file Main.nlo on input line 20.
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip68
+\multirow@cntb=\count287
+\multirow@dima=\skip69
+\bigstrutjot=\dimen194
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box60
+)
+No file Main.aux.
+\openout1 = `Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count289
+\scratchdimen=\dimen195
+\scratchbox=\box61
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen196
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks36
+)
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\arazb\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+! Undefined control sequence.
+\@IEEEgobbleleadPARNLSP ...EnextgobbleleadPARNLSP 
+                                                  
+l.77 \h
+       {Distributed Energy Resources, Electric Vehicle Charge Stations, Cros...
+
+? 
+No file Main.nls.
+
+LaTeX Warning: Citation `paranavithana2009global' on page 1 undefined on input 
+line 125.
+
+
+LaTeX Warning: Citation `kong2017three' on page 1 undefined on input line 127.
+
+
+LaTeX Warning: Citation `borozan1997' on page 1 undefined on input line 127.
+
+
+LaTeX Warning: Citation `morton2000efficient' on page 1 undefined on input line
+ 127.
+
+
+LaTeX Warning: Citation `dall2014sparsity' on page 1 undefined on input line 12
+7.
+
+
+LaTeX Warning: Citation `ding2015feeder' on page 1 undefined on input line 127.
+
+
+
+LaTeX Warning: Citation `fu2018toward' on page 1 undefined on input line 127.
+
+
+LaTeX Warning: Citation `zhu1998phase' on page 1 undefined on input line 127.
+
+
+LaTeX Warning: Citation `chen1999optimal' on page 1 undefined on input line 127
+.
+
+
+LaTeX Warning: Citation `siti2007reconfiguration' on page 1 undefined on input 
+line 127.
+
+
+LaTeX Warning: Citation `ding2018per' on page 1 undefined on input line 127.
+
+
+LaTeX Warning: Citation `valderrama2001reactive' on page 1 undefined on input l
+ine 127.
+
+
+LaTeX Warning: Citation `pires2004unbalanced' on page 1 undefined on input line
+ 127.
+
+
+LaTeX Warning: Citation `salmeron2004compensation' on page 1 undefined on input
+ line 127.
+
+
+LaTeX Warning: Citation `xu2007voltage' on page 1 undefined on input line 127.
+
+
+LaTeX Warning: Citation `singh2010grid' on page 1 undefined on input line 129.
+
+
+LaTeX Warning: Citation `weckx2015load' on page 1 undefined on input line 129.
+
+
+LaTeX Warning: Citation `dall2012optimization' on page 1 undefined on input lin
+e 129.
+
+
+LaTeX Warning: Citation `robbins2015optimal' on page 1 undefined on input line 
+129.
+
+
+LaTeX Warning: Citation `araujo2013three' on page 1 undefined on input line 129
+.
+
+
+LaTeX Warning: Citation `su2014optimal' on page 1 undefined on input line 129.
+
+
+LaTeX Warning: Citation `nguyen2018exact' on page 1 undefined on input line 129
+.
+
+
+LaTeX Warning: Citation `sheshyekani2019participation' on page 1 undefined on i
+nput line 129.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 134.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 134.
+[1{C:/Users/arazb/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ar
+azb/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+
+]
+
+LaTeX Warning: Reference `P_ij_phigamma' on page 2 undefined on input line 177.
+
+
+
+LaTeX Warning: Reference `Q_ij_phigamma' on page 2 undefined on input line 177.
+
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 187.
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 198.
+
+
+LaTeX Warning: Citation `yuan2016novel' on page 2 undefined on input line 201.
+
+
+LaTeX Warning: Reference `replaced_P_ij_phigamma' on page 2 undefined on input 
+line 201.
+
+
+LaTeX Warning: Reference `replaced_Q_ij_phigamma' on page 2 undefined on input 
+line 201.
+
+
+LaTeX Warning: Reference `branch_active_power' on page 2 undefined on input lin
+e 201.
+
+
+LaTeX Warning: Reference `linearized_Qij2' on page 2 undefined on input line 20
+1.
+
+
+LaTeX Warning: Reference `P_ij_phigamma' on page 2 undefined on input line 228.
+
+
+
+LaTeX Warning: Reference `Q_ij_phigamma' on page 2 undefined on input line 228.
+
+
+
+LaTeX Warning: Reference `replaced_P_ij_phigamma' on page 2 undefined on input 
+line 228.
+
+
+LaTeX Warning: Reference `replaced_Q_ij_phigamma' on page 2 undefined on input 
+line 228.
+
+[2]
+
+LaTeX Warning: Reference `line_capacity_constraint' on page 3 undefined on inpu
+t line 254.
+
+
+LaTeX Warning: Citation `akbari2016linear' on page 3 undefined on input line 25
+4.
+
+
+LaTeX Warning: Reference `Voltage_magnitude_constraint' on page 3 undefined on 
+input line 274.
+
+
+LaTeX Warning: Citation `smith2009ieee' on page 3 undefined on input line 274.
+
+
+LaTeX Warning: Reference `VUF_Constraint' on page 3 undefined on input line 274
+.
+
+
+LaTeX Warning: Reference `Reg' on page 3 undefined on input line 280.
+
+
+LaTeX Warning: Reference `objective_function' on page 3 undefined on input line
+ 297.
+
+
+LaTeX Warning: Reference `objective_function_VUF' on page 3 undefined on input 
+line 305.
+
+
+LaTeX Warning: Reference `Pareto' on page 3 undefined on input line 315.
+
+
+LaTeX Warning: Reference `single_phase_EVCSs_model1' on page 3 undefined on inp
+ut line 320.
+
+
+LaTeX Warning: Reference `single_phase_EVCSs_model3' on page 3 undefined on inp
+ut line 320.
+
+
+LaTeX Warning: Reference `three_phase_EVCSs_model1' on page 3 undefined on inpu
+t line 336.
+
+
+LaTeX Warning: Reference `three_phase_EVCSs_model3' on page 3 undefined on inpu
+t line 336.
+
+
+LaTeX Warning: Reference `single_phase_EVCSs_model1' on page 3 undefined on inp
+ut line 336.
+
+
+LaTeX Warning: Reference `single_phase_EVCSs_model2' on page 3 undefined on inp
+ut line 336.
+
+
+LaTeX Warning: Reference `three_phase_EVCSs_model1' on page 3 undefined on inpu
+t line 336.
+
+[3]
+
+LaTeX Warning: Citation `salmeron2004compensation' on page 4 undefined on input
+ line 353.
+
+
+LaTeX Warning: Reference `PV_model_3' on page 4 undefined on input line 371.
+
+
+LaTeX Warning: Reference `three-phase_PV_model_1' on page 4 undefined on input 
+line 380.
+
+
+LaTeX Warning: Reference `three_phase_PVs_model2' on page 4 undefined on input 
+line 380.
+
+
+LaTeX Warning: Reference `three_phase_PVs_model3' on page 4 undefined on input 
+line 380.
+
+
+LaTeX Warning: Reference `objective_function' on page 4 undefined on input line
+ 398.
+
+
+LaTeX Warning: Reference `replaced_P_ij_phigamma' on page 4 undefined on input 
+line 398.
+
+
+LaTeX Warning: Reference `replaced_Q_ij_phigamma' on page 4 undefined on input 
+line 398.
+
+
+LaTeX Warning: Reference `linearized_line_capacity_constraint' on page 4 undefi
+ned on input line 398.
+
+
+LaTeX Warning: Citation `zimmerman2010matpower' on page 4 undefined on input li
+ne 408.
+
+
+LaTeX Warning: Citation `baran1989network' on page 4 undefined on input line 40
+8.
+
+
+LaTeX Warning: Citation `schneider2014ieee' on page 4 undefined on input line 4
+08.
+
+
+LaTeX Warning: Reference `33_Bus_system' on page 4 undefined on input line 408.
+
+
+
+LaTeX Warning: Reference `192_Bus_system' on page 4 undefined on input line 408
+.
+
+
+LaTeX Warning: Reference `table2' on page 4 undefined on input line 408.
+
+<pdf/33 and 192 bus.pdf, id=23, 722.7pt x 1228.59pt>
+File: pdf/33 and 192 bus.pdf Graphic file (type pdf)
+<use pdf/33 and 192 bus.pdf>
+Package pdftex.def Info: pdf/33 and 192 bus.pdf  used on input line 413.
+(pdftex.def)             Requested size: 256.0748pt x 435.31827pt.
+
+Overfull \hbox (4.0748pt too wide) in paragraph at lines 413--414
+ [][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 424.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 424.
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+[]\OT1/ptm/b/n/8 Three-phase EV Ac-tive
+ []
+
+
+LaTeX Warning: Reference `table1' on page 4 undefined on input line 483.
+
+[4]
+Underfull \hbox (badness 1616) in paragraph at lines 534--535
+\OT1/ptm/m/n/10 di-tion, un-like the \OT1/ptm/m/it/10 Fixed\OT1/ptm/m/n/10 , \O
+T1/ptm/m/it/10 OPF \OT1/ptm/m/n/10 and \OT1/ptm/m/it/10 OPF-VUF \OT1/ptm/m/n/10
+ meth-ods,
+ []
+
+
+LaTeX Warning: Reference `Load Imbalance' on page 5 undefined on input line 536
+.
+
+
+
+pdfTeX warning: pdflatex (file ./pdf/Load Imbalance.pdf): PDF inclusion: found 
+PDF version <1.7>, but at most version <1.5> allowed
+<pdf/Load Imbalance.pdf, id=27, 307.37837pt x 240.65909pt>
+File: pdf/Load Imbalance.pdf Graphic file (type pdf)
+<use pdf/Load Imbalance.pdf>
+Package pdftex.def Info: pdf/Load Imbalance.pdf  used on input line 542.
+(pdftex.def)             Requested size: 227.62204pt x 178.21346pt.
+
+LaTeX Warning: Reference `VUF_apr_simplified' on page 5 undefined on input line
+ 553.
+
+
+
+pdfTeX warning: pdflatex (file ./pdf/VUF_reg.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<pdf/VUF_reg.pdf, id=28, 431.7229pt x 253.27625pt>
+File: pdf/VUF_reg.pdf Graphic file (type pdf)
+<use pdf/VUF_reg.pdf>
+Package pdftex.def Info: pdf/VUF_reg.pdf  used on input line 557.
+(pdftex.def)             Requested size: 227.62204pt x 133.53625pt.
+[5 <./pdf/33 and 192 bus.pdf>]
+
+LaTeX Warning: Reference `prt' on page 6 undefined on input line 565.
+
+
+
+pdfTeX warning: pdflatex (file ./pdf/Final.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<pdf/Final.pdf, id=43, 386.01215pt x 290.69603pt>
+File: pdf/Final.pdf Graphic file (type pdf)
+<use pdf/Final.pdf>
+Package pdftex.def Info: pdf/Final.pdf  used on input line 569.
+(pdftex.def)             Requested size: 227.62204pt x 171.42046pt.
+
+LaTeX Warning: Reference `table1' on page 6 undefined on input line 579.
+
+
+LaTeX Warning: Reference `scenario_section' on page 6 undefined on input line 5
+79.
+
+
+LaTeX Warning: Reference `table1' on page 6 undefined on input line 590.
+
+
+LaTeX Warning: Reference `Table9' on page 6 undefined on input line 590.
+
+
+LaTeX Warning: Reference `Cross' on page 6 undefined on input line 590.
+
+
+LaTeX Warning: Reference `Load Imbalance' on page 6 undefined on input line 590
+.
+
+
+LaTeX Warning: Reference `Table11' on page 6 undefined on input line 590.
+
+
+LaTeX Warning: Reference `secloss' on page 6 undefined on input line 590.
+
+
+LaTeX Warning: Reference `Table11' on page 6 undefined on input line 590.
+
+[6 <./pdf/Load Imbalance.pdf> <./pdf/VUF_reg.pdf> <./pdf/Final.pdf>]
+Overfull \hbox (8.43977pt too wide) in paragraph at lines 602--602
+[]|\OT1/ptm/b/n/8 System|  
+ []
+
+
+Overfull \hbox (3.11182pt too wide) in paragraph at lines 602--602
+[]|\OT1/ptm/b/n/8 Fixed|  
+ []
+
+
+Overfull \hbox (1.63158pt too wide) in paragraph at lines 602--602
+[]|\OT1/ptm/b/n/8 Crossphase- 
+ []
+
+
+Overfull \hbox (3.10364pt too wide) in paragraph at lines 623--623
+[]|\OT1/ptm/m/n/8 Scenarios|  
+ []
+
+
+Overfull \hbox (3.46371pt too wide) in paragraph at lines 624--624
+\OT1/ptm/m/n/8 Night(NC)|  
+ []
+
+
+Overfull \hbox (3.01587pt too wide) in paragraph at lines 624--624
+\OT1/ptm/m/n/8 Noon(NC)|  
+ []
+
+
+
+pdfTeX warning: pdflatex (file ./pdf/Cross.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<pdf/Cross.pdf, id=58, 378.86545pt x 297.85277pt>
+File: pdf/Cross.pdf Graphic file (type pdf)
+<use pdf/Cross.pdf>
+Package pdftex.def Info: pdf/Cross.pdf  used on input line 673.
+(pdftex.def)             Requested size: 227.62204pt x 178.94937pt.
+
+LaTeX Warning: Reference `VUF33m' on page 7 undefined on input line 680.
+
+
+LaTeX Warning: Reference `VUF192m' on page 7 undefined on input line 680.
+
+
+LaTeX Warning: Reference `table1' on page 7 undefined on input line 680.
+
+! Undefined control sequence.
+l.681 Also, the \texit
+                      {VUF} \textit{crossphase} show reduction in VUF howeve...
+
+? 
+! Undefined control sequence.
+l.681 ...e than crossphase individully. The \texit
+                                                  {VUF} \textit{OPF} and \te...
+
+? 
+
+LaTeX Warning: Reference `VUFstandar' on page 7 undefined on input line 683.
+
+
+
+pdfTeX warning: pdflatex (file ./pdf/VUF33m.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<pdf/VUF33m.pdf, id=59, 440.8169pt x 333.59631pt>
+File: pdf/VUF33m.pdf Graphic file (type pdf)
+<use pdf/VUF33m.pdf>
+Package pdftex.def Info: pdf/VUF33m.pdf  used on input line 687.
+(pdftex.def)             Requested size: 227.62204pt x 172.2545pt.
+
+
+pdfTeX warning: pdflatex (file ./pdf/VUF192m.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<pdf/VUF192m.pdf, id=60, 412.22005pt x 321.68181pt>
+File: pdf/VUF192m.pdf Graphic file (type pdf)
+<use pdf/VUF192m.pdf>
+Package pdftex.def Info: pdf/VUF192m.pdf  used on input line 694.
+(pdftex.def)             Requested size: 227.62204pt x 177.62744pt.
+
+LaTeX Warning: Reference `Table5' on page 7 undefined on input line 731.
+
+
+LaTeX Warning: Reference `Table6' on page 7 undefined on input line 731.
+
+
+LaTeX Warning: Reference `Table5' on page 7 undefined on input line 731.
+
+
+LaTeX Warning: Reference `Table5' on page 7 undefined on input line 731.
+
+
+LaTeX Warning: Reference `Table6' on page 7 undefined on input line 731.
+
+
+Underfull \vbox (badness 2790) has occurred while \output is active []
+
+ [7 <./pdf/Cross.pdf> <./pdf/VUF33m.pdf> <./pdf/VUF192m.pdf>]
+
+LaTeX Warning: Reference `Table7' on page 8 undefined on input line 733.
+
+
+LaTeX Warning: Reference `Table8' on page 8 undefined on input line 733.
+
+
+Overfull \hbox (1.63158pt too wide) in paragraph at lines 744--744
+[]|\OT1/ptm/b/n/8 Crossphase- 
+ []
+
+
+Overfull \hbox (1.63158pt too wide) in paragraph at lines 778--778
+[]|\OT1/ptm/b/n/8 Crossphase- 
+ []
+
+
+Underfull \vbox (badness 5374) has occurred while \output is active []
+
+ [8]
+No file Main.bbl.
+[9
+
+] (Main.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6382 strings out of 475248
+ 106649 string characters out of 5757813
+ 1996785 words of memory out of 5000000
+ 27786 multiletter control sequences out of 15000+600000
+ 599512 words of font info for 102 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 110i,18n,107p,2163b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmex10.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi5.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/arazb/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/arazb/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/arazb/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/arazb/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ara
+zb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Us
+ers/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmsy7.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
+utmb8a.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
+utmbi8a.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
+/utmr8a.pfb><C:/Users/arazb/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
+/utmri8a.pfb>
+Output written on Main.pdf (9 pages, 1303676 bytes).
+PDF statistics:
+ 243 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
